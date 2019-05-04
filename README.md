@@ -1,6 +1,6 @@
 ﻿# VPS-MANAGER-V3.0
 
-![Fuxion logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPSPACK-SERVER-V2.0/master/VPS_MANAGER.png)
+![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPS-MANAGER-V3.0/master/VPS_MANAGER.jpg)
 
 Manager Script
 
