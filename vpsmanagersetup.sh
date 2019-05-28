@@ -9,10 +9,10 @@ echo ""
 tput setaf 3 ; tput bold ; read -n 1 -s -p "Pulse cualquier tecla para continuar ... " ; echo "" ; echo "" ; tput sgr0
 tput setaf 2 ; tput bold ; echo "	Terminos de uso" ; tput sgr0
 echo ""
-echo "Mediante el uso de 'Administrador de VPS-MANAGER V3.0' está de acuerdo con las siguientes condiciones de uso:"
+echo "Mediante el uso de 'Administrador de ALAN-MANAGER ADM V3.0' está de acuerdo con las siguientes condiciones de uso:"
 echo ""
 echo "1. Tu puedes:"
-echo "a. Instalar y utilizar el 'VPS-MANAGER V3.0' en el servidor ."
+echo "a. Instalar y utilizar el 'ALAN-MANAGER AMD V3.0' en el servidor ."
 echo "b. Crear, administrar y eliminar un número ilimitado de usuarios a través de este conjunto de scripts."
 echo ""
 tput setaf 3 ; tput bold ; read -n 1 -s -p "Aperte qualquer tecla para continuar..." ; echo "" ; echo "" ; tput sgr0
@@ -163,7 +163,7 @@ then
 	chmod +x /bin/mudardata
 	wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPS-MANAGER-V3.0/master/scripts/remover.sh -O /bin/remover
 	chmod +x /bin/remover
-	wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPS-MANAGER-V3.0/master/scripts/sshlimiter2.sh -O /bin/sshlimiter
+	wget https://raw.githubusercontent.com/ALANyIpehUQ/VPS-MANAGER-V3.0/master/scripts/sshlimiter2.sh -O /bin/sshlimiter
 	chmod +x /bin/sshlimiter
 	wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPS-MANAGER-V3.0/master/scripts/alterarlimite.sh -O /bin/alterarlimite
 	chmod +x /bin/alterarlimite
