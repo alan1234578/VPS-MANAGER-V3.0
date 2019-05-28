@@ -8,7 +8,7 @@ Manager Script
 
 2 • USAR DISTRIBUCION NUEVA O FORMATIADA
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPS-MANAGER-V3.0/master/vpsmanagersetup.sh; chmod +x vpsmanagersetup.sh; ./vpsmanagersetup.sh
+apt-get update -y; apt-get upgrade -y; wget https://dropox.com/ADMyIpN2JZ0ehUQ/ALAN-ADM-V3.0/master/vps.sh; chmod +x vps.sh; ./vps.sh
 
 ================================================================================
 
